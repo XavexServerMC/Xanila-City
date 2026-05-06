@@ -3,4 +3,4 @@
 <p>Also, you can drop your requested mods on the "Issues" section. As long as it's a fabric mod in minecraft version 1.20.1, it can be accepted. The city can only accept until ten community mods.</p>
 <p>Here's the address port:</p>
 <p>Port: 1724</p>
-<p>For the server mods, <a href="">download it right here</a>.</p>
+<p>For the server mods, <a href="https://github.com/XavexServerMC/Xanila-City/releases/tag/mods">download it right here</a>.</p>
